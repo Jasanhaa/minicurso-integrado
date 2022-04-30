@@ -1,3 +1,3 @@
 console.log("Cláudia Confusa");
-console.log("Kevin Confus0");
+console.log("Kevin Confuso");
 console.log("Paola Confusa");
